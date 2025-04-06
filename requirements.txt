@@ -6,3 +6,4 @@ requests
 groq
 huggingface_hub
 razorpay
+pydantic[dotenv]
