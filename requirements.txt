@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+firebase-admin
+pydantic<2.0
+requests
+groq
+huggingface_hub
+razorpay
